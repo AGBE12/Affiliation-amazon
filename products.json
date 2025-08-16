@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Apple iPhone 14",
+    "image": "https://m.media-amazon.com/images/I/71yzJoE7WlL._AC_SL1500_.jpg",
+    "price": "999 €",
+    "link": "https://www.amazon.fr/dp/B0BDK62PDX?tag=votre-tag-affilie"
+  },
+  {
+    "title": "Casque Audio Sony WH-1000XM5",
+    "image": "https://m.media-amazon.com/images/I/61d5ZfEyQoL._AC_SL1500_.jpg",
+    "price": "349 €",
+    "link": "https://www.amazon.fr/dp/B09XS7JWHH?tag=votre-tag-affilie"
+  },
+  {
+    "title": "Montre Connectée Samsung Galaxy Watch 6",
+    "image": "https://m.media-amazon.com/images/I/81RU3bt3k9L._AC_SL1500_.jpg",
+    "price": "299 €",
+    "link": "https://www.amazon.fr/dp/B0C6L7W8J5?tag=votre-tag-affilie"
+  }
+]
